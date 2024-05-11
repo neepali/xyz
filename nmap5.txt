@@ -1,0 +1,13 @@
+nmap -v scanme.nmap.org
+
+nmap -sA -T4 scanme.nmap.org
+
+nmap -p23,113 scanme.nmap.org
+
+nmap -sS scanme.nmap.org
+
+nmap -sF -T4 192.168.2.1
+
+nmap -sN -p22 scanme.nmap.org
+
+nmap -sX -T4 scanme.nmap.org

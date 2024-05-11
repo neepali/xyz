@@ -1,0 +1,23 @@
+ipconfig
+
+ipconfig/displaydns
+
+ipconfig/release
+
+ping google.com
+
+netstat
+
+tracert facebook.com
+
+ping facebook.com
+
+ping netflix.com
+
+/////////
+
+linux terminal
+
+arp -a
+
+arpspoof -1 eth0 -t 192.168.217.2 192.168.1.1
